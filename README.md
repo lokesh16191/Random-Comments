@@ -12,7 +12,7 @@ Install the dependencies and start the copy server.
 cd <Current Directory>
 python server.py
 ```
-#How to Change Copier Timing interval
+# How to Change Copier Timing interval
 Navigate and open Server.py file on text editor.
 ```sh
 with open('comments.txt', 'r', encoding="utf8") as infile:
@@ -25,7 +25,7 @@ while True:
     pyperclip.copy(random.choice(li))
     print(random.choice(li))
 ```
-#How To Add Comments
+# How To Add Comments
 Add your comments in comments.txt file. Each new line treat as a comment.
 
 ```sh
@@ -40,9 +40,9 @@ Thank You So Much
 
 Apache License 2.0
 
-#Contacts
--Follow me on: [Facebook] | [Linkedin]
--Write me on: lokesh16191@gmail.com
+# Contacts
+- Follow me on: [Facebook] | [Linkedin]
+- Write me on: lokesh16191@gmail.com
 
 [Gmail]: <lokesh16191@gmail.com>
 [Facebook]: <https://www.facebook.com/lokesh16191/>

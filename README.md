@@ -5,7 +5,7 @@ This Utilitiy will choose a random comment from a file and copy on clipboard in 
 - If you want to comment on social media and everytime you want to change you comment from predefined comment list to avoid your comments marked as a spam.
 - Feel your users/followers that you are not posting same comments all the time.
 
-#Installation
+# Installation
 Install the dependencies and start the copy server.
 
 ```sh
@@ -40,9 +40,9 @@ Thank You So Much
 
 Apache License 2.0
 
-# Contacts
-- Follow me on: [Facebook] | [Linkedin]
-- Write me on: lokesh16191@gmail.com
+# Contact Us
+- Follow me on : [Facebook] | [Linkedin]
+- Write me on : Lokesh16191@gmail.com
 
 [Gmail]: <lokesh16191@gmail.com>
 [Facebook]: <https://www.facebook.com/lokesh16191/>

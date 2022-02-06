@@ -1,0 +1,1 @@
+python "D:\Benmoon\Software\PythonScripts\CopyServer\server.py"

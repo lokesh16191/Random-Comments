@@ -2,8 +2,8 @@
 This Utilitiy will choose a random comment from a file and copy on clipboard in one second interval. So that while commenting on social media platform you have to just paste on comment section. Every time you will get new random comment.
 
 # Use Cases
--If you want to comment on social media and everytime you want to change you comment from predefined comment list to avoid your comments marked as a spam.
--Feel your users/followers that you are not posting same comments all the time.
+- If you want to comment on social media and everytime you want to change you comment from predefined comment list to avoid your comments marked as a spam.
+- Feel your users/followers that you are not posting same comments all the time.
 
 #Installation
 Install the dependencies and start the copy server.

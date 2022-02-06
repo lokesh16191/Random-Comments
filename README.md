@@ -1,5 +1,10 @@
 # Random-Comments
 This Utilitiy will choose a random comment from a file and copy on clipboard in one second interval. So that while commenting on social media platform you have to just paste on comment section. Every time you will get new random comment.
+
+# Use Cases
+-If you want to comment on social media and everytime you want to change you comment from predefined comment list to avoid your comments marked as a spam.
+-Feel your users/followers that you are not posting same comments all the time.
+
 #Installation
 Install the dependencies and start the copy server.
 
@@ -7,8 +12,8 @@ Install the dependencies and start the copy server.
 cd <Current Directory>
 python server.py
 ```
-#How to Change Copier Timings in Server.py
-
+#How to Change Copier Timing interval
+Navigate and open Server.py file on text editor.
 ```sh
 with open('comments.txt', 'r', encoding="utf8") as infile:
     data = infile.read()  # Read the contents of the file into memory.
@@ -33,6 +38,13 @@ Thank You So Much
 ```
 # License
 
-MIT
+Apache License 2.0
 
-**Free Software, Hell Yeah!**
+#Contacts
+-Follow me on: [Facebook] | [Linkedin]
+-Write me on: lokesh16191@gmail.com
+
+[Gmail]: <lokesh16191@gmail.com>
+[Facebook]: <https://www.facebook.com/lokesh16191/>
+[Linkedin]: <https://www.linkedin.com/in/lokesh16191/>
+
